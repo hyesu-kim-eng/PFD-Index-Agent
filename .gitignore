@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+local_data/
+outputs/
+*.pdf
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.zip
+*.log
+.DS_Store
